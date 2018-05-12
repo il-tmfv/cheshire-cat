@@ -6,6 +6,7 @@
                  [compojure "1.5.1"]
                  [ring/ring-json "0.4.0"]
                  [org.clojure/clojurescript "1.10.238"]
+                 [cljs-http "0.1.45"]
                  [ring/ring-defaults "0.2.1"]]
   :plugins [[lein-ring "0.9.7"]
             [lein-cljsbuild "1.1.7"]]
